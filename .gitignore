@@ -1,0 +1,14 @@
+# Participant data is not part of this repository (see README)
+data june/
+new data/
+ssq/
+*.csv
+
+# Reports, slides and other documents
+*.pdf
+*.docx
+*.pptx
+
+__pycache__/
+*.pyc
+.venv/
