@@ -22,6 +22,11 @@ the finding is *supported but not established*. See
 [`analysis/METHODS_LOG.md`](analysis/METHODS_LOG.md) for the full reasoning,
 the negative results and the sensitivity checks.
 
+## Report and slides
+
+- [Final report (PDF)](report/ests_report_final.pdf)
+- [Final presentation (PPTX)](report/ests-presentation.pptx)
+
 ## Repository layout
 
 | Path | Contents |
