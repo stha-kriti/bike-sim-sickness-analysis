@@ -9,6 +9,11 @@ ssq/
 *.docx
 *.pptx
 
+# ...except the final report and slides, which are linked from the README
+!report/
+!report/*.pdf
+!report/*.pptx
+
 __pycache__/
 *.pyc
 .venv/
